@@ -6,9 +6,9 @@ Links to conference video playlists, and if available, proceedings go here. Cour
 ## 2022
 ### Spatial and Cartography
 * OSMF
-* Mapping USA
-* Geo for Good (Earth Engine + Google spatial)
-* Society for Conservation GIS
+* Mapping USA - [Agenda](https://mappingusa.org/#Program) - Proceedings
+* Geo for Good (Earth Engine + Google spatial) - [Videos](https://earthoutreachonair.withgoogle.com/events/geoforgood22)
+* Society for Conservation GIS - [All conferences](https://scgis.org/training/technical-sessions) (membership required)
 * FOSS4G
 * Esri
 
@@ -18,4 +18,4 @@ Links to conference video playlists, and if available, proceedings go here. Cour
 
 
 ## 2021
-*CSVConf
+* CSVConf
