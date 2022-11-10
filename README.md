@@ -15,7 +15,6 @@ Links to conference video playlists, and if available, proceedings go here. Cour
 * Mapping USA - [Agenda](https://mappingusa.org/#Program) - Proceedings
 * Geo for Good (Earth Engine + Google spatial) - [Videos](https://earthoutreachonair.withgoogle.com/events/geoforgood22)
 * Society for Conservation GIS - [All conferences](https://scgis.org/training/technical-sessions) (membership required)
-* FOSS4G
 * Esri
 
 #### Programming and Data Science
@@ -25,3 +24,4 @@ Links to conference video playlists, and if available, proceedings go here. Cour
 
 ### 2021
 * CSVConf
+* FOSS4G - [Videos - 2021](https://www.youtube.com/c/FOSS4G/videos), [Videos - All Years](https://video.foss4g.org/), [Proceedings Papers (older)](https://scholarworks.umass.edu/foss4g/)
